@@ -1,3 +1,7 @@
+<span class="badge-placeholder">[![Stars](https://img.shields.io/github/stars/qfcy/pyc-zipper)](https://img.shields.io/github/stars/qfcy/pyc-zipper)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/qfcy/pyc-zipper)](https://github.com/qfcy/pyc-zipper/releases/latest)</span>
+<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/qfcy/pyc-zipper)](https://github.com/qfcy/pyc-zipper/blob/main/LICENSE)</span>
+
 **The English introduction is placed below the Chinese version.**
 
 本仓库基于Python的底层字节码，实现了一套完整的pyc文件的压缩、加壳、混淆和脱壳工具链。
